@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolioreact/static/css/main.f37aa18f.css",
+    "main.js": "/portfolioreact/static/js/main.b11d2e61.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolioreact/static/js/787.1ed0c42c.chunk.js",
+    "static/media/vip.png": "/portfolioreact/static/media/vip.cfe520e38cbb48ed2aca.png",
+    "static/media/lbs.png": "/portfolioreact/static/media/lbs.d56ddb3bcb3145a75c33.png",
+    "static/media/portfolio.png": "/portfolioreact/static/media/portfolio.e008828cff0e6336363a.png",
+    "static/media/IMG_20231116_124655_770.webp": "/portfolioreact/static/media/IMG_20231116_124655_770.c232bf1eac7de7bf374c.webp",
+    "static/media/shoemart.png": "/portfolioreact/static/media/shoemart.6ff54b1479917ccd9670.png",
+    "static/media/BRAJESH_RESUME.pdf": "/portfolioreact/static/media/BRAJESH_RESUME.69f2debcaa529839b46b.pdf",
+    "static/media/wapp.png": "/portfolioreact/static/media/wapp.bd5558374ea56d222f56.png",
+    "static/media/quiz.png": "/portfolioreact/static/media/quiz.a4ce58119b220e1ea336.png",
+    "static/media/instagram-5-xxl.png": "/portfolioreact/static/media/instagram-5-xxl.2e2acd5a93723368d7ac.png",
+    "index.html": "/portfolioreact/index.html",
+    "main.f37aa18f.css.map": "/portfolioreact/static/css/main.f37aa18f.css.map",
+    "main.b11d2e61.js.map": "/portfolioreact/static/js/main.b11d2e61.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolioreact/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f37aa18f.css",
+    "static/js/main.b11d2e61.js"
+  ]
+}
