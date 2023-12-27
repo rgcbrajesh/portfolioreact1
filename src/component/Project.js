@@ -33,7 +33,7 @@ export default function Project() {
                 <div class="card-body">
                   <h5 class="card-title text-white">Shoemart</h5>
 
-                  <a href="https://rgcbrajesh.github.io/Shoemart/" class="btn btn-primary fw-bold">Live Preview</a>
+                  <a href="https://shoemart-one.vercel.app/" class="btn btn-primary fw-bold">Live Preview</a>
                 </div>
               </div>
             </div>
