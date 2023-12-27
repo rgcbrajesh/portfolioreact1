@@ -1,0 +1,95 @@
+.navbar {
+  display: flex;
+  /* justify-content:flex-end; */
+  align-items: center;
+  color: white;
+  padding: 20px;
+  height: 50px;
+
+}
+
+#logo{
+    text-decoration: none;
+    font-size: 23px;
+    font-weight: bold;
+    /* margin-left: 35px; */
+}
+.nav-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 10px;
+}
+
+.nav-links a {
+  color: white;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 18px;
+  /* margin-right: 100px; */
+  text-decoration: none;
+  margin: 0 10px;
+  transition: color 0.3s;
+}
+
+.burger {
+  display: none;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.line {
+  width: 25px;
+  height: 3px;
+  background-color: white;
+  margin: 3px;
+  transition: transform 0.3s, opacity 0.3s;
+}
+
+@media screen and (max-width: 768px) {
+  .nav-links {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    position: absolute;
+    width: 100%;
+    top: -100%;
+    left: 0;
+    text-align: center;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s, visibility 0.3s, top 0.3s;
+  }
+
+  .nav-links.active {
+    top: 100px;
+    opacity: 1;
+    visibility: visible;
+  }
+  .burger {
+    display: flex;
+  }
+}
+
+/* underline effect */
+a {
+  color: white;
+}
+/* a::after {
+  content: "";
+  display: block;
+  width: 0;
+  height: 3px;
+  background: rgb(52, 218, 247);
+  transition: width 0.5s;
+}
+
+a:hover::after {
+  width: 100%;
+} */
+ .navbar a:hover{
+    color: rgb(52, 218, 247);
+}
+/* #home{
+  margin-left:650px ;
+} */
